@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/E:/AndroidDevelopment/AndroidStudioProjects/GabrielHorn/app/build/intermediates/exploded-aar/fr.avianey/facebook-android-api/3.17.2/res/values-mdpi/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="com_facebook_picker_divider_width">1px</dimen>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="debug" >
+        <source path="E:\AndroidDevelopment\AndroidStudioProjects\GabrielHorn\zBarScannerLibrary\build\intermediates\bundles\debug\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="E:\AndroidDevelopment\AndroidStudioProjects\GabrielHorn\zBarScannerLibrary\src\androidTest\assets" />
+    </dataSet>
+
+</merger>
